@@ -1,0 +1,9 @@
+{
+  "name": "LearnAI-25/12",
+  "description": "A smart learning platform combining spaced repetition and gamification, personalized by AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
